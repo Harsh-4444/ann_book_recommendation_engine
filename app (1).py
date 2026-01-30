@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from tensorflow.keras.models import load_model
 from sklearn.preprocessing import LabelEncoder
-tensorflow==2.15.0
+tensorflow==2.15
 numpy
 pandas
 scikit-learn
